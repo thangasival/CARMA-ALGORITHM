@@ -7,7 +7,6 @@
 [![Algorithm: CARMA v1.0.0](https://img.shields.io/badge/Algorithm-CARMA%20v1.0.0-green.svg)]()
 
 **Author:** Sivalingam Thangavel  
-**Contact:** th.sivalingam@gmail.com  
 **Version:** 1.0.0 (2026)
 
 ---
