@@ -1,0 +1,27 @@
+{
+  "case_study": "LA National Distribution Hub \u2014 USA",
+  "origin": "Los Angeles, CA",
+  "n_routes": 14,
+  "pipeline_wall_time_s": 23.5,
+  "milp_cost_change_pct": -61.86,
+  "milp_emission_change_pct": -51.79,
+  "pareto_solutions": 92,
+  "dynamic_ci_saving_kg": 2372.1,
+  "annual_total_saving_t": 806.1,
+  "egrid_regions": {
+    "WECC_CA": 205,
+    "WECC_NW": 103,
+    "WECC_SW": 435,
+    "ERCOT": 393,
+    "MRO": 528,
+    "SERC": 381,
+    "NPCC": 213,
+    "FRCC": 481
+  },
+  "data_sources": {
+    "distances": "OpenStreetMap / BTS Freight Atlas 2022",
+    "costs": "BTS Commodity Flow Survey 2022 (USD/ton-km)",
+    "emissions": "EPA Supply Chain GHG Emission Factors v1.3",
+    "grid_ci": "EPA eGRID 2022 national + CA/TX regional profiles"
+  }
+}

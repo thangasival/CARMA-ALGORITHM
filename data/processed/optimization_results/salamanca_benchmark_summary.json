@@ -1,0 +1,17 @@
+{
+  "case_study": "Salamanca Benchmark vs Sanchez-Pravos [2026]",
+  "hub": "Salamanca, Spain",
+  "n_routes": 12,
+  "baseline_emission_kg": 3224.0,
+  "baseline_cost_eur": 3765.0,
+  "carma_milp_emission_pct": -65.23,
+  "carma_milp_cost_pct": -55.32,
+  "carma_n_pareto": 84,
+  "carma_ci_saving_kg": 1032.8,
+  "carma_annual_saving_t": 783.9,
+  "reference_emission_pct": -41.4,
+  "reference_cost_pct": 8.6,
+  "reference_mape_pct": 9.48,
+  "wall_time_s": 11.7,
+  "mode_shifts": 10
+}

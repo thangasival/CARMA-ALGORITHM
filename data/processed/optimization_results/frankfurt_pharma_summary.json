@@ -1,0 +1,21 @@
+{
+  "case_study": "Rotterdam European Multimodal Hub (4-mode: truck/rail/air/ship)",
+  "n_routes": 14,
+  "modes": [
+    "truck",
+    "rail",
+    "air",
+    "ship"
+  ],
+  "baseline_em_kg": 13433.0,
+  "baseline_cost_eur": 19392.0,
+  "milp_em_pct": -74.85,
+  "milp_cost_pct": -75.63,
+  "flatef_em_pct": -84.8,
+  "flatef_cost_pct": -72.76,
+  "n_pareto": 84,
+  "n_mode_shifts": 14,
+  "n_air_assigned": 0,
+  "annual_ci_saving_t": 265.8,
+  "wall_time_s": 12.9
+}

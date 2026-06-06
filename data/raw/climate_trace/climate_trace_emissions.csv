@@ -1,0 +1,577 @@
+date,region,transport_type,emissions_mt_co2e,data_source,confidence_level,methodology
+2023-01-01,North America,Road Transport,130.52,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,North America,Aviation,85.89,Climate TRACE,low,Satellite + ground monitoring
+2023-01-01,North America,Shipping,58.8,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,North America,Rail,9.86,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Europe,Road Transport,132.66,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Europe,Aviation,36.35,Climate TRACE,medium,Satellite + ground monitoring
+2023-01-01,Europe,Shipping,93.12,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Europe,Rail,19.32,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Asia Pacific,Road Transport,236.96,Climate TRACE,medium,Satellite + ground monitoring
+2023-01-01,Asia Pacific,Aviation,112.96,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Asia Pacific,Shipping,165.01,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Asia Pacific,Rail,43.04,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Latin America,Road Transport,35.37,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Latin America,Aviation,17.19,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Latin America,Shipping,68.03,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Latin America,Rail,11.29,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Africa,Road Transport,51.21,Climate TRACE,medium,Satellite + ground monitoring
+2023-01-01,Africa,Aviation,21.83,Climate TRACE,medium,Satellite + ground monitoring
+2023-01-01,Africa,Shipping,26.79,Climate TRACE,medium,Satellite + ground monitoring
+2023-01-01,Africa,Rail,4.14,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Middle East,Road Transport,124.59,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Middle East,Aviation,54.25,Climate TRACE,high,Satellite + ground monitoring
+2023-01-01,Middle East,Shipping,88.78,Climate TRACE,medium,Satellite + ground monitoring
+2023-01-01,Middle East,Rail,7.72,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,North America,Road Transport,118.83,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,North America,Aviation,53.09,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,North America,Shipping,70.43,Climate TRACE,medium,Satellite + ground monitoring
+2023-02-01,North America,Rail,29.46,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Europe,Road Transport,66.0,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Europe,Aviation,38.86,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Europe,Shipping,126.4,Climate TRACE,medium,Satellite + ground monitoring
+2023-02-01,Europe,Rail,10.6,Climate TRACE,medium,Satellite + ground monitoring
+2023-02-01,Asia Pacific,Road Transport,340.39,Climate TRACE,medium,Satellite + ground monitoring
+2023-02-01,Asia Pacific,Aviation,109.59,Climate TRACE,medium,Satellite + ground monitoring
+2023-02-01,Asia Pacific,Shipping,62.05,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Asia Pacific,Rail,17.4,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Latin America,Road Transport,71.75,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Latin America,Aviation,32.41,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Latin America,Shipping,72.57,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Latin America,Rail,3.97,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Africa,Road Transport,80.98,Climate TRACE,low,Satellite + ground monitoring
+2023-02-01,Africa,Aviation,35.1,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Africa,Shipping,23.09,Climate TRACE,medium,Satellite + ground monitoring
+2023-02-01,Africa,Rail,10.8,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Middle East,Road Transport,144.95,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Middle East,Aviation,56.47,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Middle East,Shipping,82.49,Climate TRACE,high,Satellite + ground monitoring
+2023-02-01,Middle East,Rail,4.66,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,North America,Road Transport,142.53,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,North America,Aviation,75.74,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,North America,Shipping,118.39,Climate TRACE,low,Satellite + ground monitoring
+2023-03-01,North America,Rail,14.82,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Europe,Road Transport,63.39,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Europe,Aviation,43.36,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Europe,Shipping,94.33,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Europe,Rail,7.99,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Asia Pacific,Road Transport,320.44,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Asia Pacific,Aviation,85.09,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Asia Pacific,Shipping,139.81,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Asia Pacific,Rail,32.74,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Latin America,Road Transport,84.8,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Latin America,Aviation,49.24,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Latin America,Shipping,28.02,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Latin America,Rail,13.98,Climate TRACE,medium,Satellite + ground monitoring
+2023-03-01,Africa,Road Transport,80.78,Climate TRACE,medium,Satellite + ground monitoring
+2023-03-01,Africa,Aviation,20.8,Climate TRACE,low,Satellite + ground monitoring
+2023-03-01,Africa,Shipping,43.12,Climate TRACE,low,Satellite + ground monitoring
+2023-03-01,Africa,Rail,10.75,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Middle East,Road Transport,170.14,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Middle East,Aviation,40.76,Climate TRACE,medium,Satellite + ground monitoring
+2023-03-01,Middle East,Shipping,29.26,Climate TRACE,high,Satellite + ground monitoring
+2023-03-01,Middle East,Rail,5.73,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,North America,Road Transport,183.78,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,North America,Aviation,34.15,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,North America,Shipping,163.03,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,North America,Rail,30.03,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Europe,Road Transport,56.02,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Europe,Aviation,61.76,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Europe,Shipping,33.15,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Europe,Rail,20.63,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Asia Pacific,Road Transport,258.42,Climate TRACE,low,Satellite + ground monitoring
+2023-04-01,Asia Pacific,Aviation,64.29,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Asia Pacific,Shipping,128.35,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Asia Pacific,Rail,26.61,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Latin America,Road Transport,117.17,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Latin America,Aviation,28.86,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Latin America,Shipping,85.24,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Latin America,Rail,9.95,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Africa,Road Transport,30.16,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Africa,Aviation,35.63,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Africa,Shipping,24.3,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Africa,Rail,9.63,Climate TRACE,medium,Satellite + ground monitoring
+2023-04-01,Middle East,Road Transport,101.07,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Middle East,Aviation,43.57,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Middle East,Shipping,57.96,Climate TRACE,high,Satellite + ground monitoring
+2023-04-01,Middle East,Rail,15.36,Climate TRACE,low,Satellite + ground monitoring
+2023-05-01,North America,Road Transport,94.34,Climate TRACE,low,Satellite + ground monitoring
+2023-05-01,North America,Aviation,47.99,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,North America,Shipping,52.52,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,North America,Rail,10.46,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Europe,Road Transport,76.59,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Europe,Aviation,41.8,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Europe,Shipping,109.0,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Europe,Rail,9.84,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Asia Pacific,Road Transport,213.69,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Asia Pacific,Aviation,112.07,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Asia Pacific,Shipping,80.89,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Asia Pacific,Rail,38.34,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Latin America,Road Transport,113.06,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Latin America,Aviation,18.78,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Latin America,Shipping,51.34,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Latin America,Rail,6.6,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Africa,Road Transport,25.18,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Africa,Aviation,29.57,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Africa,Shipping,37.77,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Africa,Rail,4.0,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Middle East,Road Transport,72.31,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Middle East,Aviation,20.84,Climate TRACE,medium,Satellite + ground monitoring
+2023-05-01,Middle East,Shipping,75.35,Climate TRACE,high,Satellite + ground monitoring
+2023-05-01,Middle East,Rail,17.31,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,North America,Road Transport,232.31,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,North America,Aviation,75.8,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,North America,Shipping,73.15,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,North America,Rail,13.89,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Europe,Road Transport,91.73,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Europe,Aviation,70.88,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Europe,Shipping,102.76,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Europe,Rail,17.26,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Asia Pacific,Road Transport,140.65,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Asia Pacific,Aviation,45.41,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Asia Pacific,Shipping,73.96,Climate TRACE,low,Satellite + ground monitoring
+2023-06-01,Asia Pacific,Rail,33.43,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Latin America,Road Transport,82.06,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Latin America,Aviation,45.9,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Latin America,Shipping,67.78,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Latin America,Rail,15.09,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Africa,Road Transport,58.84,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Africa,Aviation,17.02,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Africa,Shipping,18.64,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Africa,Rail,4.98,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Middle East,Road Transport,33.82,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Middle East,Aviation,51.03,Climate TRACE,medium,Satellite + ground monitoring
+2023-06-01,Middle East,Shipping,30.78,Climate TRACE,high,Satellite + ground monitoring
+2023-06-01,Middle East,Rail,9.89,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,North America,Road Transport,127.53,Climate TRACE,low,Satellite + ground monitoring
+2023-07-01,North America,Aviation,35.43,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,North America,Shipping,33.15,Climate TRACE,medium,Satellite + ground monitoring
+2023-07-01,North America,Rail,9.54,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Europe,Road Transport,62.28,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Europe,Aviation,26.24,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Europe,Shipping,41.04,Climate TRACE,medium,Satellite + ground monitoring
+2023-07-01,Europe,Rail,11.54,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Asia Pacific,Road Transport,185.92,Climate TRACE,low,Satellite + ground monitoring
+2023-07-01,Asia Pacific,Aviation,41.38,Climate TRACE,medium,Satellite + ground monitoring
+2023-07-01,Asia Pacific,Shipping,75.1,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Asia Pacific,Rail,19.57,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Latin America,Road Transport,27.2,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Latin America,Aviation,34.95,Climate TRACE,low,Satellite + ground monitoring
+2023-07-01,Latin America,Shipping,42.44,Climate TRACE,low,Satellite + ground monitoring
+2023-07-01,Latin America,Rail,2.99,Climate TRACE,medium,Satellite + ground monitoring
+2023-07-01,Africa,Road Transport,21.52,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Africa,Aviation,14.06,Climate TRACE,low,Satellite + ground monitoring
+2023-07-01,Africa,Shipping,12.03,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Africa,Rail,6.77,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Middle East,Road Transport,95.23,Climate TRACE,medium,Satellite + ground monitoring
+2023-07-01,Middle East,Aviation,37.78,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Middle East,Shipping,68.2,Climate TRACE,high,Satellite + ground monitoring
+2023-07-01,Middle East,Rail,11.89,Climate TRACE,medium,Satellite + ground monitoring
+2023-08-01,North America,Road Transport,94.47,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,North America,Aviation,81.15,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,North America,Shipping,122.29,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,North America,Rail,19.43,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Europe,Road Transport,67.63,Climate TRACE,medium,Satellite + ground monitoring
+2023-08-01,Europe,Aviation,31.01,Climate TRACE,medium,Satellite + ground monitoring
+2023-08-01,Europe,Shipping,45.26,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Europe,Rail,19.07,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Asia Pacific,Road Transport,220.03,Climate TRACE,low,Satellite + ground monitoring
+2023-08-01,Asia Pacific,Aviation,52.97,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Asia Pacific,Shipping,63.84,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Asia Pacific,Rail,21.76,Climate TRACE,low,Satellite + ground monitoring
+2023-08-01,Latin America,Road Transport,90.73,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Latin America,Aviation,16.21,Climate TRACE,medium,Satellite + ground monitoring
+2023-08-01,Latin America,Shipping,23.77,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Latin America,Rail,13.02,Climate TRACE,low,Satellite + ground monitoring
+2023-08-01,Africa,Road Transport,68.47,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Africa,Aviation,11.27,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Africa,Shipping,19.21,Climate TRACE,low,Satellite + ground monitoring
+2023-08-01,Africa,Rail,4.86,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Middle East,Road Transport,56.16,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Middle East,Aviation,14.16,Climate TRACE,high,Satellite + ground monitoring
+2023-08-01,Middle East,Shipping,50.22,Climate TRACE,medium,Satellite + ground monitoring
+2023-08-01,Middle East,Rail,13.47,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,North America,Road Transport,138.3,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,North America,Aviation,20.2,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,North America,Shipping,90.76,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,North America,Rail,10.05,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Europe,Road Transport,145.95,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Europe,Aviation,63.02,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Europe,Shipping,27.96,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,Europe,Rail,20.48,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Asia Pacific,Road Transport,196.04,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,Asia Pacific,Aviation,55.28,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Asia Pacific,Shipping,101.65,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,Asia Pacific,Rail,9.5,Climate TRACE,low,Satellite + ground monitoring
+2023-09-01,Latin America,Road Transport,59.47,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Latin America,Aviation,16.71,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Latin America,Shipping,60.37,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,Latin America,Rail,7.79,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Africa,Road Transport,55.59,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Africa,Aviation,13.38,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Africa,Shipping,16.73,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Africa,Rail,3.6,Climate TRACE,medium,Satellite + ground monitoring
+2023-09-01,Middle East,Road Transport,88.68,Climate TRACE,low,Satellite + ground monitoring
+2023-09-01,Middle East,Aviation,28.3,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Middle East,Shipping,19.25,Climate TRACE,high,Satellite + ground monitoring
+2023-09-01,Middle East,Rail,11.15,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,North America,Road Transport,67.55,Climate TRACE,low,Satellite + ground monitoring
+2023-10-01,North America,Aviation,54.3,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,North America,Shipping,37.27,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,North America,Rail,17.85,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Europe,Road Transport,78.84,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Europe,Aviation,56.33,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Europe,Shipping,91.49,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Europe,Rail,12.65,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Asia Pacific,Road Transport,219.7,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Asia Pacific,Aviation,67.68,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Asia Pacific,Shipping,73.72,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Asia Pacific,Rail,9.87,Climate TRACE,low,Satellite + ground monitoring
+2023-10-01,Latin America,Road Transport,40.88,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Latin America,Aviation,34.83,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Latin America,Shipping,59.99,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Latin America,Rail,6.61,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Africa,Road Transport,24.61,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Africa,Aviation,18.73,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Africa,Shipping,35.65,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Africa,Rail,2.04,Climate TRACE,low,Satellite + ground monitoring
+2023-10-01,Middle East,Road Transport,31.16,Climate TRACE,high,Satellite + ground monitoring
+2023-10-01,Middle East,Aviation,15.07,Climate TRACE,low,Satellite + ground monitoring
+2023-10-01,Middle East,Shipping,40.96,Climate TRACE,medium,Satellite + ground monitoring
+2023-10-01,Middle East,Rail,10.39,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,North America,Road Transport,226.67,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,North America,Aviation,75.87,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,North America,Shipping,36.69,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,North America,Rail,17.93,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Europe,Road Transport,193.26,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Europe,Aviation,55.87,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Europe,Shipping,97.45,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Europe,Rail,10.87,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Asia Pacific,Road Transport,138.21,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Asia Pacific,Aviation,79.17,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Asia Pacific,Shipping,42.57,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Asia Pacific,Rail,29.12,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Latin America,Road Transport,107.48,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Latin America,Aviation,39.62,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Latin America,Shipping,31.87,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Latin America,Rail,5.55,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Africa,Road Transport,28.94,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Africa,Aviation,13.52,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Africa,Shipping,44.28,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Africa,Rail,5.08,Climate TRACE,low,Satellite + ground monitoring
+2023-11-01,Middle East,Road Transport,69.09,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Middle East,Aviation,16.49,Climate TRACE,high,Satellite + ground monitoring
+2023-11-01,Middle East,Shipping,28.22,Climate TRACE,medium,Satellite + ground monitoring
+2023-11-01,Middle East,Rail,8.23,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,North America,Road Transport,234.39,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,North America,Aviation,99.65,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,North America,Shipping,42.46,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,North America,Rail,16.86,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Europe,Road Transport,85.62,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Europe,Aviation,60.86,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Europe,Shipping,75.37,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Europe,Rail,14.73,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Asia Pacific,Road Transport,220.08,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Asia Pacific,Aviation,113.91,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Asia Pacific,Shipping,65.75,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Asia Pacific,Rail,16.79,Climate TRACE,low,Satellite + ground monitoring
+2023-12-01,Latin America,Road Transport,81.45,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Latin America,Aviation,28.15,Climate TRACE,low,Satellite + ground monitoring
+2023-12-01,Latin America,Shipping,41.39,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Latin America,Rail,7.32,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Africa,Road Transport,37.77,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Africa,Aviation,18.41,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Africa,Shipping,22.84,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Africa,Rail,5.25,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Middle East,Road Transport,83.09,Climate TRACE,medium,Satellite + ground monitoring
+2023-12-01,Middle East,Aviation,15.11,Climate TRACE,low,Satellite + ground monitoring
+2023-12-01,Middle East,Shipping,77.04,Climate TRACE,high,Satellite + ground monitoring
+2023-12-01,Middle East,Rail,4.38,Climate TRACE,low,Satellite + ground monitoring
+2024-01-01,North America,Road Transport,228.39,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,North America,Aviation,94.06,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,North America,Shipping,128.8,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,North America,Rail,10.29,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Europe,Road Transport,62.24,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Europe,Aviation,53.49,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Europe,Shipping,103.37,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Europe,Rail,28.04,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Asia Pacific,Road Transport,229.47,Climate TRACE,low,Satellite + ground monitoring
+2024-01-01,Asia Pacific,Aviation,98.71,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Asia Pacific,Shipping,71.98,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Asia Pacific,Rail,9.72,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Latin America,Road Transport,123.86,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Latin America,Aviation,21.19,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Latin America,Shipping,23.67,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Latin America,Rail,5.02,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Africa,Road Transport,68.35,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Africa,Aviation,26.23,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Africa,Shipping,48.68,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Africa,Rail,3.99,Climate TRACE,high,Satellite + ground monitoring
+2024-01-01,Middle East,Road Transport,151.13,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Middle East,Aviation,28.9,Climate TRACE,medium,Satellite + ground monitoring
+2024-01-01,Middle East,Shipping,38.83,Climate TRACE,low,Satellite + ground monitoring
+2024-01-01,Middle East,Rail,15.99,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,North America,Road Transport,180.42,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,North America,Aviation,77.95,Climate TRACE,medium,Satellite + ground monitoring
+2024-02-01,North America,Shipping,45.38,Climate TRACE,low,Satellite + ground monitoring
+2024-02-01,North America,Rail,12.93,Climate TRACE,medium,Satellite + ground monitoring
+2024-02-01,Europe,Road Transport,168.87,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Europe,Aviation,28.33,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Europe,Shipping,74.16,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Europe,Rail,19.35,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Asia Pacific,Road Transport,287.6,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Asia Pacific,Aviation,87.36,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Asia Pacific,Shipping,152.57,Climate TRACE,medium,Satellite + ground monitoring
+2024-02-01,Asia Pacific,Rail,21.73,Climate TRACE,medium,Satellite + ground monitoring
+2024-02-01,Latin America,Road Transport,114.39,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Latin America,Aviation,25.73,Climate TRACE,low,Satellite + ground monitoring
+2024-02-01,Latin America,Shipping,56.73,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Latin America,Rail,11.05,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Africa,Road Transport,44.88,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Africa,Aviation,38.55,Climate TRACE,medium,Satellite + ground monitoring
+2024-02-01,Africa,Shipping,30.98,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Africa,Rail,9.68,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Middle East,Road Transport,126.85,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Middle East,Aviation,32.79,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Middle East,Shipping,52.85,Climate TRACE,high,Satellite + ground monitoring
+2024-02-01,Middle East,Rail,6.43,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,North America,Road Transport,160.65,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,North America,Aviation,34.85,Climate TRACE,low,Satellite + ground monitoring
+2024-03-01,North America,Shipping,68.38,Climate TRACE,low,Satellite + ground monitoring
+2024-03-01,North America,Rail,10.92,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Europe,Road Transport,228.46,Climate TRACE,medium,Satellite + ground monitoring
+2024-03-01,Europe,Aviation,74.34,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Europe,Shipping,126.83,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Europe,Rail,19.42,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Asia Pacific,Road Transport,97.05,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Asia Pacific,Aviation,99.09,Climate TRACE,medium,Satellite + ground monitoring
+2024-03-01,Asia Pacific,Shipping,193.37,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Asia Pacific,Rail,24.8,Climate TRACE,medium,Satellite + ground monitoring
+2024-03-01,Latin America,Road Transport,117.39,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Latin America,Aviation,51.55,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Latin America,Shipping,33.7,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Latin America,Rail,16.49,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Africa,Road Transport,36.82,Climate TRACE,medium,Satellite + ground monitoring
+2024-03-01,Africa,Aviation,38.28,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Africa,Shipping,45.01,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Africa,Rail,7.79,Climate TRACE,medium,Satellite + ground monitoring
+2024-03-01,Middle East,Road Transport,55.32,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Middle East,Aviation,32.38,Climate TRACE,high,Satellite + ground monitoring
+2024-03-01,Middle East,Shipping,52.68,Climate TRACE,medium,Satellite + ground monitoring
+2024-03-01,Middle East,Rail,9.95,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,North America,Road Transport,206.71,Climate TRACE,low,Satellite + ground monitoring
+2024-04-01,North America,Aviation,40.27,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,North America,Shipping,67.89,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,North America,Rail,11.81,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Europe,Road Transport,183.62,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,Europe,Aviation,80.53,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Europe,Shipping,101.78,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Europe,Rail,26.2,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,Asia Pacific,Road Transport,149.21,Climate TRACE,low,Satellite + ground monitoring
+2024-04-01,Asia Pacific,Aviation,72.4,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Asia Pacific,Shipping,61.44,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Asia Pacific,Rail,20.3,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Latin America,Road Transport,140.77,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Latin America,Aviation,24.59,Climate TRACE,low,Satellite + ground monitoring
+2024-04-01,Latin America,Shipping,25.65,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Latin America,Rail,16.35,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Africa,Road Transport,63.17,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,Africa,Aviation,22.27,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,Africa,Shipping,18.43,Climate TRACE,medium,Satellite + ground monitoring
+2024-04-01,Africa,Rail,7.29,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Middle East,Road Transport,67.19,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Middle East,Aviation,33.48,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Middle East,Shipping,23.64,Climate TRACE,high,Satellite + ground monitoring
+2024-04-01,Middle East,Rail,13.54,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,North America,Road Transport,231.14,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,North America,Aviation,105.06,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,North America,Shipping,97.03,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,North America,Rail,33.86,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Europe,Road Transport,163.33,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Europe,Aviation,43.75,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Europe,Shipping,44.55,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Europe,Rail,5.88,Climate TRACE,low,Satellite + ground monitoring
+2024-05-01,Asia Pacific,Road Transport,252.96,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Asia Pacific,Aviation,45.14,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Asia Pacific,Shipping,65.64,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Asia Pacific,Rail,23.21,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Latin America,Road Transport,67.41,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Latin America,Aviation,29.49,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Latin America,Shipping,41.46,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Latin America,Rail,3.74,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Africa,Road Transport,46.06,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Africa,Aviation,15.1,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Africa,Shipping,32.45,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Africa,Rail,2.53,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Middle East,Road Transport,69.23,Climate TRACE,medium,Satellite + ground monitoring
+2024-05-01,Middle East,Aviation,58.54,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Middle East,Shipping,61.27,Climate TRACE,high,Satellite + ground monitoring
+2024-05-01,Middle East,Rail,8.1,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,North America,Road Transport,71.19,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,North America,Aviation,33.95,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,North America,Shipping,105.82,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,North America,Rail,18.0,Climate TRACE,low,Satellite + ground monitoring
+2024-06-01,Europe,Road Transport,172.65,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Europe,Aviation,73.66,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Europe,Shipping,74.81,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Europe,Rail,12.76,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Asia Pacific,Road Transport,218.31,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Asia Pacific,Aviation,124.26,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Asia Pacific,Shipping,52.88,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Asia Pacific,Rail,22.62,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Latin America,Road Transport,97.95,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Latin America,Aviation,48.11,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Latin America,Shipping,60.63,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Latin America,Rail,13.04,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Africa,Road Transport,24.85,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Africa,Aviation,9.75,Climate TRACE,low,Satellite + ground monitoring
+2024-06-01,Africa,Shipping,15.64,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Africa,Rail,4.13,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Middle East,Road Transport,115.1,Climate TRACE,high,Satellite + ground monitoring
+2024-06-01,Middle East,Aviation,39.74,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Middle East,Shipping,53.6,Climate TRACE,medium,Satellite + ground monitoring
+2024-06-01,Middle East,Rail,14.37,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,North America,Road Transport,136.94,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,North America,Aviation,31.78,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,North America,Shipping,38.48,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,North America,Rail,20.62,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Europe,Road Transport,99.04,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Europe,Aviation,61.62,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Europe,Shipping,70.49,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Europe,Rail,19.84,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Asia Pacific,Road Transport,116.3,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Asia Pacific,Aviation,63.6,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Asia Pacific,Shipping,142.38,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Asia Pacific,Rail,28.78,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Latin America,Road Transport,79.87,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Latin America,Aviation,25.44,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Latin America,Shipping,20.61,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Latin America,Rail,2.69,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Africa,Road Transport,40.24,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Africa,Aviation,19.42,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Africa,Shipping,15.67,Climate TRACE,medium,Satellite + ground monitoring
+2024-07-01,Africa,Rail,4.13,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Middle East,Road Transport,66.28,Climate TRACE,low,Satellite + ground monitoring
+2024-07-01,Middle East,Aviation,14.25,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Middle East,Shipping,21.48,Climate TRACE,high,Satellite + ground monitoring
+2024-07-01,Middle East,Rail,16.57,Climate TRACE,medium,Satellite + ground monitoring
+2024-08-01,North America,Road Transport,191.84,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,North America,Aviation,28.67,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,North America,Shipping,61.33,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,North America,Rail,23.56,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Europe,Road Transport,55.25,Climate TRACE,low,Satellite + ground monitoring
+2024-08-01,Europe,Aviation,26.12,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Europe,Shipping,59.5,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Europe,Rail,19.82,Climate TRACE,medium,Satellite + ground monitoring
+2024-08-01,Asia Pacific,Road Transport,240.78,Climate TRACE,low,Satellite + ground monitoring
+2024-08-01,Asia Pacific,Aviation,96.58,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Asia Pacific,Shipping,155.31,Climate TRACE,low,Satellite + ground monitoring
+2024-08-01,Asia Pacific,Rail,32.01,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Latin America,Road Transport,62.3,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Latin America,Aviation,29.66,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Latin America,Shipping,41.66,Climate TRACE,medium,Satellite + ground monitoring
+2024-08-01,Latin America,Rail,2.76,Climate TRACE,medium,Satellite + ground monitoring
+2024-08-01,Africa,Road Transport,24.63,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Africa,Aviation,15.16,Climate TRACE,low,Satellite + ground monitoring
+2024-08-01,Africa,Shipping,33.79,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Africa,Rail,7.11,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Middle East,Road Transport,51.64,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Middle East,Aviation,31.88,Climate TRACE,medium,Satellite + ground monitoring
+2024-08-01,Middle East,Shipping,68.95,Climate TRACE,high,Satellite + ground monitoring
+2024-08-01,Middle East,Rail,5.36,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,North America,Road Transport,87.49,Climate TRACE,low,Satellite + ground monitoring
+2024-09-01,North America,Aviation,41.35,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,North America,Shipping,42.23,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,North America,Rail,17.55,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Europe,Road Transport,98.68,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Europe,Aviation,15.18,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,Europe,Shipping,52.53,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,Europe,Rail,19.56,Climate TRACE,low,Satellite + ground monitoring
+2024-09-01,Asia Pacific,Road Transport,179.26,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Asia Pacific,Aviation,39.31,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Asia Pacific,Shipping,71.55,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Asia Pacific,Rail,30.25,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,Latin America,Road Transport,78.89,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,Latin America,Aviation,31.76,Climate TRACE,low,Satellite + ground monitoring
+2024-09-01,Latin America,Shipping,49.9,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Latin America,Rail,9.23,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Africa,Road Transport,55.57,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Africa,Aviation,20.11,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Africa,Shipping,14.92,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Africa,Rail,3.43,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,Middle East,Road Transport,85.72,Climate TRACE,medium,Satellite + ground monitoring
+2024-09-01,Middle East,Aviation,11.72,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Middle East,Shipping,50.35,Climate TRACE,high,Satellite + ground monitoring
+2024-09-01,Middle East,Rail,7.93,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,North America,Road Transport,60.02,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,North America,Aviation,42.76,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,North America,Shipping,33.5,Climate TRACE,low,Satellite + ground monitoring
+2024-10-01,North America,Rail,18.65,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Europe,Road Transport,86.45,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Europe,Aviation,59.1,Climate TRACE,low,Satellite + ground monitoring
+2024-10-01,Europe,Shipping,71.44,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Europe,Rail,15.95,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Asia Pacific,Road Transport,130.96,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Asia Pacific,Aviation,89.45,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Asia Pacific,Shipping,84.14,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Asia Pacific,Rail,25.35,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Latin America,Road Transport,89.56,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Latin America,Aviation,23.86,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Latin America,Shipping,45.21,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Latin America,Rail,2.49,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Africa,Road Transport,31.36,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Africa,Aviation,8.73,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Africa,Shipping,16.65,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Africa,Rail,7.87,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Middle East,Road Transport,55.28,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Middle East,Aviation,19.97,Climate TRACE,medium,Satellite + ground monitoring
+2024-10-01,Middle East,Shipping,59.65,Climate TRACE,high,Satellite + ground monitoring
+2024-10-01,Middle East,Rail,9.31,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,North America,Road Transport,165.73,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,North America,Aviation,35.74,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,North America,Shipping,62.7,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,North America,Rail,21.59,Climate TRACE,low,Satellite + ground monitoring
+2024-11-01,Europe,Road Transport,188.95,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Europe,Aviation,36.81,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Europe,Shipping,95.39,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Europe,Rail,16.07,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Asia Pacific,Road Transport,101.27,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Asia Pacific,Aviation,27.07,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Asia Pacific,Shipping,98.31,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Asia Pacific,Rail,33.43,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Latin America,Road Transport,63.13,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Latin America,Aviation,24.3,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Latin America,Shipping,33.84,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Latin America,Rail,8.05,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Africa,Road Transport,62.37,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Africa,Aviation,7.91,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Africa,Shipping,21.4,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Africa,Rail,2.29,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Middle East,Road Transport,114.14,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Middle East,Aviation,14.74,Climate TRACE,medium,Satellite + ground monitoring
+2024-11-01,Middle East,Shipping,47.77,Climate TRACE,high,Satellite + ground monitoring
+2024-11-01,Middle East,Rail,9.4,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,North America,Road Transport,186.98,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,North America,Aviation,83.89,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,North America,Shipping,113.9,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,North America,Rail,11.51,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,Europe,Road Transport,200.73,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Europe,Aviation,28.04,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Europe,Shipping,53.37,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Europe,Rail,13.47,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,Asia Pacific,Road Transport,276.47,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,Asia Pacific,Aviation,51.2,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Asia Pacific,Shipping,163.1,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Asia Pacific,Rail,18.55,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Latin America,Road Transport,29.99,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,Latin America,Aviation,47.88,Climate TRACE,low,Satellite + ground monitoring
+2024-12-01,Latin America,Shipping,28.72,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Latin America,Rail,13.59,Climate TRACE,low,Satellite + ground monitoring
+2024-12-01,Africa,Road Transport,31.2,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Africa,Aviation,20.43,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Africa,Shipping,42.1,Climate TRACE,medium,Satellite + ground monitoring
+2024-12-01,Africa,Rail,6.8,Climate TRACE,low,Satellite + ground monitoring
+2024-12-01,Middle East,Road Transport,108.25,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Middle East,Aviation,49.97,Climate TRACE,low,Satellite + ground monitoring
+2024-12-01,Middle East,Shipping,73.01,Climate TRACE,high,Satellite + ground monitoring
+2024-12-01,Middle East,Rail,9.49,Climate TRACE,high,Satellite + ground monitoring

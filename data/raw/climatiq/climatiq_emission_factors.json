@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "climatiq_diesel_US_road_freight_1860",
+    "activity_id": "diesel_road_freight_combustion",
+    "name": "Diesel combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.15494,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_US_rail_freight_5426",
+    "activity_id": "diesel_rail_freight_combustion",
+    "name": "Diesel combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.040334,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_US_maritime_freight_1769",
+    "activity_id": "diesel_maritime_freight_combustion",
+    "name": "Diesel combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.015679,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "low",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_EU_road_freight_2184",
+    "activity_id": "diesel_road_freight_combustion",
+    "name": "Diesel combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.184774,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_EU_rail_freight_3558",
+    "activity_id": "diesel_rail_freight_combustion",
+    "name": "Diesel combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.038432,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_EU_maritime_freight_3734",
+    "activity_id": "diesel_maritime_freight_combustion",
+    "name": "Diesel combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.014802,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_diesel_CN_road_freight_4556",
+    "activity_id": "diesel_road_freight_combustion",
+    "name": "Diesel combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.159395,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_CN_rail_freight_9433",
+    "activity_id": "diesel_rail_freight_combustion",
+    "name": "Diesel combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.046521,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_CN_maritime_freight_8099",
+    "activity_id": "diesel_maritime_freight_combustion",
+    "name": "Diesel combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.013835,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_JP_road_freight_2585",
+    "activity_id": "diesel_road_freight_combustion",
+    "name": "Diesel combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.18077,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_JP_rail_freight_8989",
+    "activity_id": "diesel_rail_freight_combustion",
+    "name": "Diesel combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.041575,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_JP_maritime_freight_1995",
+    "activity_id": "diesel_maritime_freight_combustion",
+    "name": "Diesel combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.014528,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "low",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_CA_road_freight_2016",
+    "activity_id": "diesel_road_freight_combustion",
+    "name": "Diesel combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.146316,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_CA_rail_freight_5887",
+    "activity_id": "diesel_rail_freight_combustion",
+    "name": "Diesel combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.041488,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_CA_maritime_freight_3062",
+    "activity_id": "diesel_maritime_freight_combustion",
+    "name": "Diesel combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.013384,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_AU_road_freight_3695",
+    "activity_id": "diesel_road_freight_combustion",
+    "name": "Diesel combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.155923,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_diesel_AU_rail_freight_6892",
+    "activity_id": "diesel_rail_freight_combustion",
+    "name": "Diesel combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.043817,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_diesel_AU_maritime_freight_4104",
+    "activity_id": "diesel_maritime_freight_combustion",
+    "name": "Diesel combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.016575,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "diesel",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_US_road_freight_9154",
+    "activity_id": "gasoline_road_freight_combustion",
+    "name": "Gasoline combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.151781,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_US_rail_freight_2028",
+    "activity_id": "gasoline_rail_freight_combustion",
+    "name": "Gasoline combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.038664,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_US_maritime_freight_6134",
+    "activity_id": "gasoline_maritime_freight_combustion",
+    "name": "Gasoline combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.012082,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_EU_road_freight_8408",
+    "activity_id": "gasoline_road_freight_combustion",
+    "name": "Gasoline combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.15886,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_EU_rail_freight_7892",
+    "activity_id": "gasoline_rail_freight_combustion",
+    "name": "Gasoline combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.032368,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_EU_maritime_freight_4157",
+    "activity_id": "gasoline_maritime_freight_combustion",
+    "name": "Gasoline combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.012356,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_CN_road_freight_4627",
+    "activity_id": "gasoline_road_freight_combustion",
+    "name": "Gasoline combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.125194,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_CN_rail_freight_6592",
+    "activity_id": "gasoline_rail_freight_combustion",
+    "name": "Gasoline combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.031032,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_CN_maritime_freight_6864",
+    "activity_id": "gasoline_maritime_freight_combustion",
+    "name": "Gasoline combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.011738,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_JP_road_freight_1663",
+    "activity_id": "gasoline_road_freight_combustion",
+    "name": "Gasoline combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.141354,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_JP_rail_freight_6232",
+    "activity_id": "gasoline_rail_freight_combustion",
+    "name": "Gasoline combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.037132,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_JP_maritime_freight_8554",
+    "activity_id": "gasoline_maritime_freight_combustion",
+    "name": "Gasoline combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.012707,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_CA_road_freight_5737",
+    "activity_id": "gasoline_road_freight_combustion",
+    "name": "Gasoline combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.146667,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_CA_rail_freight_6249",
+    "activity_id": "gasoline_rail_freight_combustion",
+    "name": "Gasoline combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.036411,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_CA_maritime_freight_4510",
+    "activity_id": "gasoline_maritime_freight_combustion",
+    "name": "Gasoline combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.012334,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_AU_road_freight_3931",
+    "activity_id": "gasoline_road_freight_combustion",
+    "name": "Gasoline combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.136368,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_AU_rail_freight_5282",
+    "activity_id": "gasoline_rail_freight_combustion",
+    "name": "Gasoline combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.038133,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_gasoline_AU_maritime_freight_7546",
+    "activity_id": "gasoline_maritime_freight_combustion",
+    "name": "Gasoline combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.012639,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "gasoline",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_US_road_freight_9680",
+    "activity_id": "natural_gas_road_freight_combustion",
+    "name": "Natural_Gas combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.109857,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_US_rail_freight_9155",
+    "activity_id": "natural_gas_rail_freight_combustion",
+    "name": "Natural_Gas combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.02852,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_EU_road_freight_1262",
+    "activity_id": "natural_gas_road_freight_combustion",
+    "name": "Natural_Gas combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.132342,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_EU_rail_freight_3049",
+    "activity_id": "natural_gas_rail_freight_combustion",
+    "name": "Natural_Gas combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.032285,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "low",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_CN_road_freight_8158",
+    "activity_id": "natural_gas_road_freight_combustion",
+    "name": "Natural_Gas combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.139349,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_CN_rail_freight_7295",
+    "activity_id": "natural_gas_rail_freight_combustion",
+    "name": "Natural_Gas combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.035812,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_JP_road_freight_6539",
+    "activity_id": "natural_gas_road_freight_combustion",
+    "name": "Natural_Gas combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.141336,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_JP_rail_freight_1098",
+    "activity_id": "natural_gas_rail_freight_combustion",
+    "name": "Natural_Gas combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.028174,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_CA_road_freight_1956",
+    "activity_id": "natural_gas_road_freight_combustion",
+    "name": "Natural_Gas combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.124461,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_CA_rail_freight_4987",
+    "activity_id": "natural_gas_rail_freight_combustion",
+    "name": "Natural_Gas combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.030324,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_AU_road_freight_5555",
+    "activity_id": "natural_gas_road_freight_combustion",
+    "name": "Natural_Gas combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.117802,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_natural_gas_AU_rail_freight_4436",
+    "activity_id": "natural_gas_rail_freight_combustion",
+    "name": "Natural_Gas combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.032863,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "natural_gas",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "low",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_US_road_freight_8022",
+    "activity_id": "electricity_road_freight_combustion",
+    "name": "Electricity combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.084997,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_US_rail_freight_5642",
+    "activity_id": "electricity_rail_freight_combustion",
+    "name": "Electricity combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.026158,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_electricity_EU_road_freight_2069",
+    "activity_id": "electricity_road_freight_combustion",
+    "name": "Electricity combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.088198,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_EU_rail_freight_1301",
+    "activity_id": "electricity_rail_freight_combustion",
+    "name": "Electricity combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.031598,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "low",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_electricity_CN_road_freight_1980",
+    "activity_id": "electricity_road_freight_combustion",
+    "name": "Electricity combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.083512,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_CN_rail_freight_6854",
+    "activity_id": "electricity_rail_freight_combustion",
+    "name": "Electricity combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.026931,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "low",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_JP_road_freight_5014",
+    "activity_id": "electricity_road_freight_combustion",
+    "name": "Electricity combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.081228,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_JP_rail_freight_1784",
+    "activity_id": "electricity_rail_freight_combustion",
+    "name": "Electricity combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.03117,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_CA_road_freight_6801",
+    "activity_id": "electricity_road_freight_combustion",
+    "name": "Electricity combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.09041,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_electricity_CA_rail_freight_6625",
+    "activity_id": "electricity_rail_freight_combustion",
+    "name": "Electricity combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.031471,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_AU_road_freight_9173",
+    "activity_id": "electricity_road_freight_combustion",
+    "name": "Electricity combustion for road freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.077544,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "road_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_electricity_AU_rail_freight_6919",
+    "activity_id": "electricity_rail_freight_combustion",
+    "name": "Electricity combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.026955,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "electricity",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_US_rail_freight_2148",
+    "activity_id": "heavy_fuel_oil_rail_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.045576,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_US_maritime_freight_4854",
+    "activity_id": "heavy_fuel_oil_maritime_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "US",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.01551,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_EU_rail_freight_4051",
+    "activity_id": "heavy_fuel_oil_rail_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.048645,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "medium",
+      "reliability": "high",
+      "temporal_correlation": "medium"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_EU_maritime_freight_5142",
+    "activity_id": "heavy_fuel_oil_maritime_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "EU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.01635,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_CN_rail_freight_2693",
+    "activity_id": "heavy_fuel_oil_rail_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.051339,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_CN_maritime_freight_9932",
+    "activity_id": "heavy_fuel_oil_maritime_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CN",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.019318,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_JP_rail_freight_2664",
+    "activity_id": "heavy_fuel_oil_rail_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.047545,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_JP_maritime_freight_1559",
+    "activity_id": "heavy_fuel_oil_maritime_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "JP",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.018266,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "low",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_CA_rail_freight_1580",
+    "activity_id": "heavy_fuel_oil_rail_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.045225,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_CA_maritime_freight_8253",
+    "activity_id": "heavy_fuel_oil_maritime_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "CA",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.017222,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_AU_rail_freight_7617",
+    "activity_id": "heavy_fuel_oil_rail_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for rail freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.0388,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "rail_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "high",
+      "temporal_correlation": "high"
+    }
+  },
+  {
+    "id": "climatiq_heavy_fuel_oil_AU_maritime_freight_6881",
+    "activity_id": "heavy_fuel_oil_maritime_freight_combustion",
+    "name": "Heavy_Fuel_Oil combustion for maritime freight",
+    "category": "Transport",
+    "sector": "Transportation",
+    "source": "IPCC 2021, EPA 2024",
+    "region": "AU",
+    "year": 2024,
+    "emission_factor": {
+      "value": 0.017643,
+      "unit": "kg CO2e/ton-km"
+    },
+    "fuel_type": "heavy_fuel_oil",
+    "transport_mode": "maritime_freight",
+    "data_quality_flags": {
+      "completeness": "high",
+      "reliability": "medium",
+      "temporal_correlation": "high"
+    }
+  }
+]

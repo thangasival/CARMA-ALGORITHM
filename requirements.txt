@@ -1,0 +1,27 @@
+# CARMA-ALGORITHM — Python Dependencies
+# Tested on Python 3.14.3 (Windows / Linux / macOS)
+# Install: pip install -r requirements.txt
+
+# ── Core data science ──────────────────────────────────────────────────────
+numpy>=2.4.0            # Array operations, reference directions, CAPS seeding
+pandas>=3.0.0           # Route DataFrames, training data, results export
+scikit-learn>=1.8.0     # RandomForest, Ridge meta-learner, cross-validation
+scipy>=1.17.0           # Statistical utilities (algorithm/utils/metrics.py)
+
+# ── Machine learning ───────────────────────────────────────────────────────
+xgboost>=3.0.0          # XGBoost base learner in Segmented MoE ensemble
+joblib>=1.4.0           # Parallel model fitting, joblib.Parallel in ensemble
+
+# ── Optimization ───────────────────────────────────────────────────────────
+pulp>=3.0.0             # Carbon-budget MILP + CBC solver (Phase 3)
+deap>=1.4.0             # NSGA-III evolutionary base — DCCT-NSGA-III (Phase 4)
+
+# ── Visualization ──────────────────────────────────────────────────────────
+matplotlib>=3.10.0      # Pareto front plots, emission comparison charts
+seaborn>=0.13.0         # Statistical figure styling
+
+# ── Data collection (optional — required only for live API sources) ─────────
+requests>=2.32.0        # Climatiq API connector, EPA data scraper
+
+# ── Development & testing (optional) ──────────────────────────────────────
+pytest>=8.0.0           # Unit and integration tests (tests/)

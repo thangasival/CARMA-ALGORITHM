@@ -1,0 +1,14 @@
+{
+  "case_study": "USA Network v2 \u2014 TLC Model",
+  "n_routes": 14,
+  "baseline_em_kg": 248409.0,
+  "baseline_tlc_usd": 312432.0,
+  "milp_em_pct": -72.19,
+  "milp_tlc_pct": -79.73,
+  "flatef_em_pct": -88.66,
+  "flatef_tlc_pct": -55.74,
+  "n_pareto": 92,
+  "n_mode_shifts": 14,
+  "annual_ci_saving_t": 259.2,
+  "wall_time_s": 17.8
+}
