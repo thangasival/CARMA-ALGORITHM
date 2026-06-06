@@ -2,7 +2,6 @@
 
 **Version:** 1.0.0  
 **Author:** Sivalingam Thangavel  
-**Contact:** th.sivalingam@gmail.com  
 **Status:** Novel Algorithm — Manuscript in preparation  
 **Primary domain:** Supply chain optimization, sustainable logistics, multi-objective combinatorial optimization
 
