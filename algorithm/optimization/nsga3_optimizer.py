@@ -342,6 +342,8 @@ class NSGA3Optimizer:
         population_size: int = 92,
         n_partitions: int = 6,
         shadow_price: float = 0.0,
+        use_caps: bool = True,
+        use_sprd: bool = True,
     ):
         self.ml_predictor    = ml_predictor
         self.population_size = population_size
@@ -351,10 +353,13 @@ class NSGA3Optimizer:
         self.mutation_prob   = 0.20
         self.n_generations   = 100
         self.shadow_price    = shadow_price   # λ* from MILP (€/kg CO₂e)
+        # DCCT ablation flags — set to False to isolate individual channels
+        self.use_caps        = use_caps   # Channel 1: Certificate-Anchored Population Seeding
+        self.use_sprd        = use_sprd   # Channel 2: Shadow-Priced Reference Direction Weighting
 
-        # Generate reference directions + apply SPRD if λ* > 0
+        # Generate reference directions + apply SPRD if λ* > 0 AND use_sprd enabled
         base_dirs = generate_reference_directions(self.n_objectives, n_partitions)
-        self.ref_dirs = self._apply_sprd(base_dirs)
+        self.ref_dirs = self._apply_sprd(base_dirs) if use_sprd else base_dirs
         logger.info(f"NSGA-III: {self.n_objectives} objectives  "
                     f"{len(self.ref_dirs)} reference directions (p={n_partitions})"
                     + (f"  λ*={shadow_price:.4f} €/kg [SPRD active]"
@@ -400,11 +405,11 @@ class NSGA3Optimizer:
         if n_generations:
             self.n_generations = n_generations
 
-        # Allow runtime shadow_price override + SPRD re-application
+        # Allow runtime shadow_price override + SPRD re-application (if use_sprd active)
         if shadow_price is not None and shadow_price != self.shadow_price:
             self.shadow_price = shadow_price
             base_dirs = generate_reference_directions(self.n_objectives, self.n_partitions)
-            self.ref_dirs = self._apply_sprd(base_dirs)
+            self.ref_dirs = self._apply_sprd(base_dirs) if self.use_sprd else base_dirs
             self.toolbox.register(
                 "select", lambda pop, k: nsga3_select(pop, k, self.ref_dirs)
             )
@@ -414,14 +419,20 @@ class NSGA3Optimizer:
         if self.ml_predictor is None:
             self._init_phys_fallback()
 
-        logger.info(f"CAPS-NSGA-III: {len(routes)} routes  "
-                    f"pop={self.population_size}  gen={self.n_generations}"
-                    + ("  [CAPS seeded]" if milp_assignments else ""))
+        # Respect use_caps flag: suppress MILP seeding if Channel 1 ablated
+        effective_milp = milp_assignments if self.use_caps else None
+
+        variant = ("DCCT" if self.use_caps and self.use_sprd
+                   else "CAPS-only" if self.use_caps
+                   else "SPRD-only" if self.use_sprd
+                   else "Random-init")
+        logger.info(f"NSGA-III[{variant}]: {len(routes)} routes  "
+                    f"pop={self.population_size}  gen={self.n_generations}")
 
         start = time.perf_counter()
         import random
 
-        population = self._init_population(routes, milp_assignments=milp_assignments)
+        population = self._init_population(routes, milp_assignments=effective_milp)
         self._eval_batch(population, routes)
 
         for gen in range(self.n_generations):
