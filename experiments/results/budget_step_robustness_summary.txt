@@ -1,0 +1,24 @@
+BUDGET-STEP ROBUSTNESS SUMMARY
+Reference carbon price: 65 €/t
+
+  network  budget_%           step_2.5%             step_5%            step_10% stable
+Salamanca         0 allowance_preferred allowance_preferred allowance_preferred    YES
+Salamanca        10 allowance_preferred allowance_preferred allowance_preferred    YES
+Salamanca        20 allowance_preferred allowance_preferred allowance_preferred    YES
+Salamanca        30 allowance_preferred allowance_preferred allowance_preferred    YES
+Salamanca        40 allowance_preferred allowance_preferred allowance_preferred    YES
+Salamanca        50 allowance_preferred allowance_preferred allowance_preferred    YES
+  Iberian         0         non-binding         non-binding         non-binding    YES
+  Iberian        10         non-binding         non-binding         non-binding    YES
+  Iberian        20         non-binding         non-binding         non-binding    YES
+  Iberian        30         non-binding         non-binding         non-binding    YES
+  Iberian        40         non-binding         non-binding         non-binding    YES
+  Iberian        50         non-binding         non-binding         non-binding    YES
+Frankfurt         0 allowance_preferred allowance_preferred allowance_preferred    YES
+Frankfurt        10 allowance_preferred allowance_preferred allowance_preferred    YES
+Frankfurt        20 allowance_preferred allowance_preferred allowance_preferred    YES
+Frankfurt        30          infeasible          infeasible          infeasible    YES
+Frankfurt        40          infeasible          infeasible          infeasible    YES
+Frankfurt        50          infeasible          infeasible          infeasible    YES
+
+Overall stability: 18/18 (100%) regime cells identical across step sizes.

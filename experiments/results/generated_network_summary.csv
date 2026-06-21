@@ -1,0 +1,4 @@
+family,n_instances,pct_cobenefit,pct_nonbinding,pct_shift_preferred,pct_parity,pct_allowance_preferred,pct_infeasible_at_ref,median_mac_eur_t,median_max_feas_pct,pct_cobenefit_uncon
+rail_limited_domestic,50,0.0,80.0,0.0,0.0,46.0,0.0,2440.0,50.0,26.0
+maritime_accessible,50,0.0,200.0,0.0,0.0,0.0,0.0,50.0,50.0,100.0
+hub_limited_redundancy,50,0.0,96.0,2.0,0.0,22.0,52.0,1378.0,15.0,72.0

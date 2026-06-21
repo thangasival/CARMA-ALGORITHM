@@ -1,0 +1,45 @@
+PARAMETER SENSITIVITY SUMMARY
+Budget level: 20%
+
+                                        mac_eur_t               regime
+network   parameter            value                                  
+Frankfurt rail_cost_rate_mult  0.50           NaN          non-binding
+                               0.75         435.0  allowance_preferred
+                               1.00         822.0  allowance_preferred
+                               1.25        1538.0  allowance_preferred
+                               1.50        2254.0  allowance_preferred
+          rail_ef_mult         0.50           NaN          non-binding
+                               0.75           NaN          non-binding
+                               1.00         822.0  allowance_preferred
+                               1.30           NaN           infeasible
+                               1.60           NaN           infeasible
+          rail_terminal_eur    300.00         NaN          non-binding
+                               500.00        88.0  allowance_preferred
+                               680.00       822.0  allowance_preferred
+                               900.00      2015.0  allowance_preferred
+                               1200.00     3641.0  allowance_preferred
+          truck_cost_rate_mult 0.75        2254.0  allowance_preferred
+                               0.90        1395.0  allowance_preferred
+                               1.00         822.0  allowance_preferred
+                               1.25           NaN          non-binding
+                               1.50           NaN          non-binding
+Salamanca rail_cost_rate_mult  0.50         260.0  allowance_preferred
+                               0.75         549.0  allowance_preferred
+                               1.00         837.0  allowance_preferred
+                               1.25        1125.0  allowance_preferred
+                               1.50        1413.0  allowance_preferred
+          rail_ef_mult         0.50         644.0  allowance_preferred
+                               0.75         728.0  allowance_preferred
+                               1.00         837.0  allowance_preferred
+                               1.30           NaN          non-binding
+                               1.60        2435.0  allowance_preferred
+          rail_terminal_eur    300.00         NaN          non-binding
+                               500.00       310.0  allowance_preferred
+                               680.00       837.0  allowance_preferred
+                               900.00      1481.0  allowance_preferred
+                               1200.00     2359.0  allowance_preferred
+          truck_cost_rate_mult 0.75        1413.0  allowance_preferred
+                               0.90        1068.0  allowance_preferred
+                               1.00         837.0  allowance_preferred
+                               1.25         260.0  allowance_preferred
+                               1.50           NaN          non-binding

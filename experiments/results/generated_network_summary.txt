@@ -1,0 +1,34 @@
+GENERATED-NETWORK ROBUSTNESS SUMMARY
+N = 50 instances per archetype
+Reference: 20% budget @ 65 €/t
+
+                family  n_instances  pct_cobenefit  pct_nonbinding  pct_shift_preferred  pct_parity  pct_allowance_preferred  pct_infeasible_at_ref  median_mac_eur_t  median_max_feas_pct  pct_cobenefit_uncon
+ rail_limited_domestic           50            0.0            80.0                  0.0         0.0                     46.0                    0.0            2440.0                 50.0                 26.0
+   maritime_accessible           50            0.0           200.0                  0.0         0.0                      0.0                    0.0              50.0                 50.0                100.0
+hub_limited_redundancy           50            0.0            96.0                  2.0         0.0                     22.0                   52.0            1378.0                 15.0                 72.0
+
+Detailed regime distribution:
+
+rail_limited_domestic:
+  Co-benefit/non-binding:   80.0%
+  Allowance preferred:       46.0%
+  Shift preferred:           0.0%
+  Infeasible at 20%:         0.0%
+  Median MAC:                2440.0 €/t
+  Median max feasible:       50.0%
+
+maritime_accessible:
+  Co-benefit/non-binding:   200.0%
+  Allowance preferred:       0.0%
+  Shift preferred:           0.0%
+  Infeasible at 20%:         0.0%
+  Median MAC:                50.0 €/t
+  Median max feasible:       50.0%
+
+hub_limited_redundancy:
+  Co-benefit/non-binding:   96.0%
+  Allowance preferred:       22.0%
+  Shift preferred:           2.0%
+  Infeasible at 20%:         52.0%
+  Median MAC:                1378.0 €/t
+  Median max feasible:       15.0%
